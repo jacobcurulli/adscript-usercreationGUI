@@ -8,4 +8,4 @@ You should check out his blog posts.
 ############################
 
 This script was created for a school to assist in creating student user accounts for active directory.
-To generate passwords you need to also download the folder 'passwordlists' and the two text files within.
+ To generate passwords you need to also download the folder 'passwordlists' and the two text files within.
